@@ -1,0 +1,10 @@
+deb http://ftp.mx.debian.org/debian/ buster main contrib non-free
+deb-src http://ftp.mx.debian.org/debian/ buster main contrib non-free
+
+deb http://ftp.mx.debian.org/debian/ buster-updates main contrib non-free
+deb-src http://ftp.mx.debian.org/debian/ buster-updates main contrib non-free
+
+deb http://security.debian.org/debian-security buster/updates main contrib non-free
+deb-src http://security.debian.org/debian-security buster/updates main contrib non-free
+
+# deb http://ftp.debian.org/debian buster-backports main contrib non-free
