@@ -1,12 +1,18 @@
 # Debian GNU/Linux
 
+**Base**
+
+    sudo apt update
+    sudo apu upgrade -y
+    sudo apt install -y apt-transport-https curl gnupg secure-delete wget
+
 **Development**
 
-    sudo apt install -y build-essential curl git nasm vim
+    sudo apt install -y build-essential git nasm vim
 
 **Graphics**
 
-    sudo apt install -y inkscape
+    sudo apt install -y inkscape libavcodec-extra
 
 **TexLive**
 
