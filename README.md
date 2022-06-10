@@ -24,6 +24,10 @@ Java 8: [Amazon Corretto](https://docs.aws.amazon.com/corretto/latest/corretto-8
 
     sudo apt install -y dnsutils nmap
 
+**PHP**
+
+    sudo apt install -y php-fpm php-xml php-xdebug
+
 **Graphics**
 
     sudo apt install -y inkscape libavcodec-extra
