@@ -26,7 +26,7 @@ Java 8: [Amazon Corretto](https://docs.aws.amazon.com/corretto/latest/corretto-8
 
 **PHP**
 
-    sudo apt install -y php-fpm php-xml php-xdebug
+    sudo apt install -y php-fpm php-curl php-mbstring php-xml php-xdebug
 
 **Graphics**
 
