@@ -43,3 +43,7 @@ Java 8: [Amazon Corretto](https://docs.aws.amazon.com/corretto/latest/corretto-8
         texlive-pictures \
         texlive-science \
         biber
+
+**KDE Plasma**
+
+    sudo apt install -y sddm-theme-breeze ffmpegthumbs kdegraphics-thumbnailers
