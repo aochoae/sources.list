@@ -47,3 +47,8 @@ Java 8: [Amazon Corretto](https://docs.aws.amazon.com/corretto/latest/corretto-8
 **KDE Plasma**
 
     sudo apt install -y sddm-theme-breeze ffmpegthumbs kdegraphics-thumbnailers
+
+**Microsoft**
+
+* [Microsoft Edge Insider Channels](https://www.microsoftedgeinsider.com/en-us/download)
+* [Visual Studio Code](https://code.visualstudio.com/download)
